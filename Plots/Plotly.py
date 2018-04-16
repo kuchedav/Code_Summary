@@ -1,12 +1,16 @@
 
 # Webpage: https://plot.ly
 
-import plotly
-plotly.tools.set_credentials_file(username='david.kuchelmeister', api_key='bm8uYBd56ekPOB39dLnv')
-plotly.tools.set_config_file(world_readable=True,sharing='public')
+
+# THIS STEP IS EXECUTED ONLY ONCE
+# import plotly
+# plotly.tools.set_credentials_file(username='david.kuchelmeister', api_key='bm8uYBd56ekPOB39dLnv')
+# plotly.tools.set_config_file(world_readable=True,sharing='public')
 
 import plotly.plotly as py
 from plotly.graph_objs import *
+
+py.sign_in(username='david.kuchelmeister', api_key='9R4BOHtv4vk2KQGxQXJ7')
 
 trace0 = Scatter(
     x=[1, 2, 3, 4],
