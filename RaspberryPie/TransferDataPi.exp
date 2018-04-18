@@ -1,0 +1,6 @@
+#!/usr/bin/expect
+        spawn scp -r /Users/davidkuchelmeister/Documents/Coding/Blockchain pi@192.168.10.24:/home/pi/Downloads
+        set pass "melon"
+        expect {
+        password: {send "$pass\r"; exp_continue}
+                  }
