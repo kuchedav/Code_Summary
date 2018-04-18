@@ -1,1 +1,2 @@
-
+scp -r /Users/davidkuchelmeister/Documents/Coding/Blockchain pi@192.168.10.24:/home/pi/Downloads
+sshpass -p "melon" scp -r /Users/davidkuchelmeister/Documents/Coding/Blockchain pi@192.168.10.24:/home/pi/Downloads
