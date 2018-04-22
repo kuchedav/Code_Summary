@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17ed493a-e4ca-48d3-b25f-2f9d62ec4ba2" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/RaspberryPie/TransferData.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RaspberryPie/WriteTreePathFile.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -328,7 +326,14 @@
       <option name="project" value="LOCAL" />
       <updated>1524082089423</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Next step">
+      <created>1524391222106</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1524391222106</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TodoView">
@@ -348,7 +353,7 @@
       <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.5055283" side_tool="true" visible="true" weight="0.3297414" />
       <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="File Transfer" order="1" sideWeight="0.49815726" weight="0.3297414" />
-      <window_info active="true" anchor="bottom" id="Run" order="16" sideWeight="0.49447176" visible="true" weight="0.3297414" />
+      <window_info anchor="bottom" id="Run" order="16" sideWeight="0.49447176" weight="0.3297414" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="9" />
       <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.7444717" weight="0.3286638" />
