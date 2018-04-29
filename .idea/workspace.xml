@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17ed493a-e4ca-48d3-b25f-2f9d62ec4ba2" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/Testing/Test.R" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testing/tmp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TipsAndTricks/General.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jupyter Notebook/Ploting.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Jupyter Notebook/Ploting.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Testing/Test.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Testing/Test.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,6 +20,8 @@
     <SUITE FILE_PATH="coverage/Code_Summary$Plotly.coverage" NAME="Plotly Coverage Results" MODIFIED="1524082243765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Plots" />
     <SUITE FILE_PATH="coverage/Code_Summary$TransferData.coverage" NAME="TransferData Coverage Results" MODIFIED="1524389284783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RaspberryPie" />
     <SUITE FILE_PATH="coverage/Code_Summary$Test.coverage" NAME="Test Coverage Results" MODIFIED="1523881991310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Testing" />
+    <SUITE FILE_PATH="coverage/Code_Summary$local_tmp.coverage" NAME="local tmp Coverage Results" MODIFIED="1524933747539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Testing" />
+    <SUITE FILE_PATH="coverage/Code_Summary$tmp.coverage" NAME="tmp Coverage Results" MODIFIED="1524931109539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Testing" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -32,47 +39,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="Test.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Testing/Test.py">
+      <file leaf-file-name="General.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TipsAndTricks/General.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="1" column="115" selection-start-line="1" selection-start-column="115" selection-end-line="1" selection-end-column="115" />
+            <state relative-caret-position="1748">
+              <caret line="92" column="16" selection-start-line="92" selection-start-column="16" selection-end-line="92" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ExecuteTransferDataPi" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/RaspberryPie/ExecuteTransferDataPi">
+      <file leaf-file-name="tmp.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Testing/tmp.py">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="15" selection-start-line="15" selection-end-line="16" selection-end-column="21" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test.ipynb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Testing/Test.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <caret column="103" selection-start-column="103" selection-end-column="103" />
+              <selected id="3" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TransferDataPi.exp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/RaspberryPie/TransferDataPi.exp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="19" selection-end-line="5" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TransferData.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/RaspberryPie/TransferData.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="21" column="52" lean-forward="true" selection-start-line="21" selection-start-column="52" selection-end-line="21" selection-end-column="52" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="WriteTreePathFile.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/RaspberryPie/WriteTreePathFile.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="33" lean-forward="true" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+      <file leaf-file-name="Ploting.ipynb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Jupyter Notebook/Ploting.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="1" />
             </state>
           </provider>
         </entry>
@@ -87,6 +88,11 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>&gt;&gt;&gt;</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -94,16 +100,19 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Jupyter Notebook/Start Jupyter.ipynb" />
-        <option value="$PROJECT_DIR$/Testing/Test.ipynb" />
         <option value="$PROJECT_DIR$/Plots/Matplotlib.py" />
         <option value="$PROJECT_DIR$/Plots/Plotly.py" />
-        <option value="$PROJECT_DIR$/Jupyter Notebook/Ploting.ipynb" />
         <option value="$PROJECT_DIR$/Testing/Test.py" />
         <option value="$PROJECT_DIR$/RaspberryPie/TransferDataPi" />
         <option value="$PROJECT_DIR$/RaspberryPie/ExecuteTransferDataPi" />
         <option value="$PROJECT_DIR$/RaspberryPie/TransferDataPi.exp" />
-        <option value="$PROJECT_DIR$/RaspberryPie/WriteTreePathFile.py" />
         <option value="$PROJECT_DIR$/RaspberryPie/TransferData.py" />
+        <option value="$PROJECT_DIR$/Testing/Test.R" />
+        <option value="$PROJECT_DIR$/TipsAndTricks/General.py" />
+        <option value="$PROJECT_DIR$/Jupyter Notebook/Ploting.ipynb" />
+        <option value="$PROJECT_DIR$/RaspberryPie/WriteTreePathFile.py" />
+        <option value="$PROJECT_DIR$/Testing/tmp.py" />
+        <option value="$PROJECT_DIR$/Testing/Test.ipynb" />
       </list>
     </option>
   </component>
@@ -116,7 +125,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1680" />
     <option name="height" value="1050" />
   </component>
@@ -136,7 +145,12 @@
             <path>
               <item name="Code_Summary" type="b2602c69:ProjectViewProjectNode" />
               <item name="Code_Summary" type="462c0819:PsiDirectoryNode" />
-              <item name="RaspberryPie" type="462c0819:PsiDirectoryNode" />
+              <item name="Jupyter Notebook" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Code_Summary" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Code_Summary" type="462c0819:PsiDirectoryNode" />
+              <item name="Testing" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -148,10 +162,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Testing" />
       <recent name="$PROJECT_DIR$/MySQL" />
     </key>
   </component>
@@ -167,7 +182,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.TransferData">
+  <component name="RunManager" selected="Python.local tmp">
     <configuration name="Plotly" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Code_Summary" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -225,13 +240,61 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="local tmp" type="PythonConfigurationType" factoryName="Python">
+      <module name="Code_Summary" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/PycharmProjects/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Testing" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Testing/tmp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="remote tmp" type="PythonConfigurationType" factoryName="Python">
+      <module name="Code_Summary" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Testing" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Testing/tmp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Test" type="RRunConfigurationType" factoryName="R" temporary="true">
+      <option name="SCRIPT_PATH" value="$PROJECT_DIR$/Testing/Test.R" />
+      <option name="SCRIPT_ARGS" value="" />
+      <option name="WORKING_DIRECTORY_PATH" value="$PROJECT_DIR$/Testing" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+    </configuration>
     <list>
+      <item itemvalue="Python.remote tmp" />
+      <item itemvalue="Python.local tmp" />
       <item itemvalue="Python.Test" />
       <item itemvalue="Python.Plotly" />
       <item itemvalue="Python.TransferData" />
+      <item itemvalue="R.Test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="R.Test" />
         <item itemvalue="Python.TransferData" />
         <item itemvalue="Python.Plotly" />
         <item itemvalue="Python.Test" />
@@ -346,34 +409,34 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1680" height="1050" extended-state="6" />
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info anchor="bottom" id="TODO" order="22" sideWeight="0.5036855" side_tool="true" weight="0.3286638" />
-      <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.5055283" side_tool="true" visible="true" weight="0.3297414" />
+      <window_info anchor="bottom" id="TODO" order="13" sideWeight="0.5036855" side_tool="true" weight="0.3286638" />
+      <window_info anchor="bottom" id="Event Log" order="4" sideWeight="0.5012285" side_tool="true" weight="0.3297414" />
       <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
-      <window_info anchor="bottom" id="File Transfer" order="1" sideWeight="0.49815726" weight="0.3297414" />
-      <window_info anchor="bottom" id="Run" order="16" sideWeight="0.49447176" weight="0.3297414" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Python Console" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.7444717" weight="0.3286638" />
-      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.49839228" visible="true" weight="0.1480344" />
-      <window_info anchor="right" id="R Packages" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="5" />
+      <window_info anchor="bottom" id="Python Console" order="6" sideWeight="0.49815726" weight="0.3297414" />
+      <window_info anchor="bottom" id="Run" order="9" sideWeight="0.49140048" weight="0.3297414" />
+      <window_info anchor="bottom" id="Terminal" order="14" sideWeight="0.4963145" weight="0.3297414" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.49839228" visible="true" weight="0.20454545" />
+      <window_info anchor="right" id="R Packages" order="7" weight="0.32985258" />
       <window_info anchor="bottom" id="Docker" order="2" show_stripe_button="false" />
-      <window_info anchor="right" id="R Graphics" order="6" weight="0.32985258" />
+      <window_info anchor="right" id="R Graphics" order="6" weight="0.19103195" />
       <window_info anchor="right" id="Database" order="0" weight="0.32985258" />
-      <window_info anchor="bottom" id="SciView" order="3" sideWeight="0.5055283" side_tool="true" weight="0.3297414" />
+      <window_info active="true" anchor="bottom" id="SciView" order="3" sideWeight="0.5036855" side_tool="true" visible="true" weight="0.39978448" />
       <window_info id="Structure" order="2" sideWeight="0.5016077" side_tool="true" weight="0.1480344" />
-      <window_info anchor="bottom" id="Debug" order="18" sideWeight="0.4987715" weight="0.39978448" />
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info anchor="right" id="Commander" order="1" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="10" sideWeight="0.4963145" weight="0.39978448" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
       <window_info anchor="right" id="Remote Host" order="0" />
+      <window_info anchor="right" id="Commander" order="1" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Cvs" order="19" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="14" />
-      <window_info anchor="bottom" id="Inspection" order="20" weight="0.4" />
-      <window_info anchor="bottom" id="Message" order="12" />
+      <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="7" />
+      <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
+      <window_info anchor="bottom" id="File Transfer" order="1" sideWeight="0.49692875" weight="0.3297414" />
+      <window_info anchor="bottom" id="Find" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -389,7 +452,14 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="4" />
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Testing/tmp.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="8" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -640,20 +710,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Testing/Test.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Jupyter Notebook/Ploting.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Plots/Matplotlib.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
@@ -693,13 +749,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Testing/Test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="115" selection-start-line="1" selection-start-column="115" selection-end-line="1" selection-end-column="115" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/RaspberryPie/ExecuteTransferDataPi">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -707,24 +756,69 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Testing/Test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="115" selection-start-line="1" selection-start-column="115" selection-end-line="1" selection-end-column="115" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/RaspberryPie/TransferDataPi.exp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
-          <caret line="5" column="19" selection-end-line="5" selection-end-column="19" />
+          <caret line="5" column="19" lean-forward="true" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Testing/Test.R">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/RaspberryPie/WriteTreePathFile.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="33" lean-forward="true" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+        <state relative-caret-position="171">
+          <caret line="9" column="32" lean-forward="true" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/RaspberryPie/TransferData.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
-          <caret line="21" column="52" lean-forward="true" selection-start-line="21" selection-start-column="52" selection-end-line="21" selection-end-column="52" />
+          <caret line="21" column="52" selection-start-line="21" selection-start-column="52" selection-end-line="21" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TipsAndTricks/General.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1748">
+          <caret line="92" column="16" selection-start-line="92" selection-start-column="16" selection-end-line="92" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Testing/tmp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="15" selection-start-line="15" selection-end-line="16" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jupyter Notebook/Ploting.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Testing/Test.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="3" />
         </state>
       </provider>
     </entry>
